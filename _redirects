@@ -1,0 +1,5 @@
+/old-path    https://vaxforcats.com    301
+  X-Frame-Options: DENY
+  X-XSS-Protection: 1; mode=block
+  Cache-Control: no-cache
+  X-Redirect-By: Netlify
